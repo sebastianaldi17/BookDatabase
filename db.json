@@ -1,0 +1,32 @@
+[
+  {
+    "name": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "id": 1
+  },
+  {
+    "name": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "id": 2
+  },
+  {
+    "name": "Visible Man",
+    "author": "Ralph Ellison",
+    "id": 3
+  },
+  {
+    "name": "Charlie and the Chocolate Factory",
+    "author": "Dr. Seuss",
+    "id": 5
+  },
+  {
+    "name": "Dracula",
+    "author": "Bram Stoker",
+    "id": 6
+  },
+  {
+    "name": "The Lightning Thief",
+    "author": "Rick Riordan",
+    "id": 7
+  }
+]
